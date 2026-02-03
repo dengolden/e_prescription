@@ -296,7 +296,7 @@ class _ResepFormState extends State<ResepForm> {
                             'Umum IV',
                             'Umum V',
                             'BPJS',
-                            'Free'
+                            'Jasa Free'
                           ].map((String value) {
                             return DropdownMenuItem<String>(
                               value: value,
